@@ -10,65 +10,35 @@ The resources and products from FLARE include papers, data, educational modules,
 
 ## Technical papers
 
-
-Thomas, R.Q, R.P. McClure, T.N. Moore, W.M. Woelmer, C. Boettiger, R.J. Figueiredo, R.T. Hensley, C.C. Carey, 
-"Near-term forecasts of NEON lakes reveal gradients of environmental predictability across the U.S.",
-Accepted Frontiers in Ecology and Environment, 222.
-Pre-print: [https://doi.org/10.1002/essoar.10510642.1](https://doi.org/10.1002/essoar.10510642.1)
-
-Woelmer, Whitney M. and Bradley, L. M. and Haber, Lisa T. and Klinges, David H. and Lewis, Abigail S. and Mohr, Elizabeth J. and Torrens, Christa L. and Wheeler, Kathryn I. and Willson, Alyssa M.,
-"Ten simple rules for training yourself in an emerging field.",
-PLOS Computational Biolog, 17(10), 2021.
-[doi:https://doi.org/10.1371/journal.pcbi.1009440](https://doi.org/10.1371/journal.pcbi.1009440)
-
-Hounshell, Alexandria G. and Farrell, Kaitlin J. and Carey, Cayelan C., 
-"Macrosystems EDDIE Teaching Modules Increase Students’ Ability to Define, Interpret, and Apply Concepts in Macrosystems Ecology.",
-Education Sciences, 11(8), 2021. 
-[doi:https://doi.org/10.3390/educsci11080382](https://doi.org/10.3390/educsci11080382)
+Carey C.C, W.M. Woelmer, M.E. Lofton, R.J. Figueiredo, B.J. Bookout, R.S. Corrigan, V. Daneshmand, A.G. Hounshell, D.W. Howard, A.S. Lewis, R.P. McClure, H.L. Wander, N.K. Ward, and R.Q. Thomas. 2022. Advancing lake and reservoir water quality management with near-term, iterative ecological forecasting. Inland Waters 12: 107-120 <https://doi.org/10.1080/20442041.2020.1816421>
 
 Daneshmand, Vahid and Breef-Pilz, Adrienne and Carey, Cayelan C. and Jin, Yuqi and Ku, Yun-Jung and Subratie, Kensworth C. and Thomas, R. Quinn and Figueiredo, Renato J.,
 "Edge-to-cloud Virtualized Cyberinfrastructure for Near Real-time Water Quality Forecasting in Lakes and Reservoirs.",
 2021 IEEE 17th International Conference on eScience (eScience). 
 [doi:https://doi.org/10.1109/eScience51609.2021.00024](https://doi.org/10.1109/eScience51609.2021.00024)
 
-McClure, Ryan P. and Schreiber, Madeline E. and Lofton, Mary E. and Chen, Shengyang and Krueger, Kathryn M. and Carey, Cayelan C.,
-(2021). 
-"Ecosystem-Scale Oxygen Manipulations Alter Terminal Electron Acceptor Pathways in a Eutrophic Reservoir.",
-Ecosystems, 24(6), 2021.
-[doi:https://doi.org/10.1007/s10021-020-00582-9](https://doi.org/10.1007/s10021-020-00582-9)
+Lofton, M.E., D.W. Howard, R.Q. Thomas, C. C Carey. 2023. Progress and opportunities in advancing near-term forecasting of freshwater quality. Global Change Biology 29: 1691-1714 <https://doi.org/10.1111/gcb.16590>
 
-Hounshell, Alexandria G. and McClure, Ryan P. and Lofton, Mary E. and Carey, Cayelan C.,
-"Whole‐ecosystem oxygenation experiments reveal substantially greater hypolimnetic methane concentrations in reservoirs during anoxia.",
-Limnology and Oceanography Letters, 6(1), 2021.
-[doi:https://doi.org/10.1002/lol2.10173](https://doi.org/10.1002/lol2.10173)
-
-Howard, Dexter W. and Hounshell, Alexandria G. and Lofton, Mary E. and Woelmer, Whitney M. and Hanson, Paul C. and Carey, Cayelan C,
-"Variability in fluorescent dissolved organic matter concentrations across diel to seasonal time scales is driven by water temperature and meteorology in a eutrophic reservoir.",
-Aquatic Sciences, 83(2), 2021. 
-[doi:https://doi.org/10.1007/s00027-021-00784-w](https://doi.org/10.1007/s00027-021-00784-w)
+McClure, R.P, R.Q. Thomas, M.E. Lofton, W.M. Woelmer and C.C. Carey. 2021. Iterative forecasting improves near-term predictions of methane ebullition rates. Frontiers in Environmental Science 9:756603 <https://doi.org/10.3389/fenvs.2021.756603>
 
 Moore, Tadhg N. and Mesman, Jorrit P. and Ladwig, Robert and Feldbauer, Johannes and Olsson, Freya and Pilla, Rachel M. and Shatwell, Tom and Venkiteswaran, Jason J. and Delany, Austin D. and Dugan, Hilary and Rose, Kevin C. and Read, Jordan S.,
 "LakeEnsemblR: An R package that facilitates ensemble modelling of lakes.",
 Environmental Modelling & Software, 143(C) 105101, 2021.
 [doi:https://doi.org/10.1016/j.envsoft.2021.105101](https://doi.org/10.1016/j.envsoft.2021.105101)
 
+Olsson, F, T.N. Moore, C.C. Carey, A. Breef-Pilz, and R.Q. Thomas. 2024. A multi-model ensemble of baseline and process-based models improves the predictive skill of near-term lake forecasts. Water Resources Research 60: e2023WR035901 <https://doi.org/10.1029/2023WR035901>
 
-Thomas, R. Quinn and Figueiredo, Renato J. and Daneshmand, Vahid and Bookout, Bethany J. and Puckett, Laura K. and Carey, Cayelan C.,
-"A Near‐Term Iterative Forecasting System Successfully Predicts Reservoir Hydrodynamics and Partitions Uncertainty in Real Time.",
-Water Resources Research, 56(11), 2020.
-[doi:https://doi.org/10.1029/2019WR026138](https://doi.org/10.1029/2019WR026138)
+Thomas, R.Q, R.P. McClure, T.N. Moore, W.M. Woelmer, C. Boettiger, R.J. Figueiredo, R.T. Hensley, C.C. Carey. Near-term forecasts of NEON lakes reveal gradients of environmental predictability across the U.S. Frontiers in Ecology and Environment 21: 220–226 <https://doi.org/10.1002/fee.2623>
 
-Carey, Cayelan C. and Farrell, Kaitlin J. and Hounshell, Alexandria G. and O'Connell, Kristin,
-"Macrosystems EDDIE teaching modules significantly increase ecology students' proficiency and confidence working with ecosystem models and use of systems thinking.",
-Ecology and Evolution, 10(22), 2020.
-[doi:https://doi.org/10.1002/ece3.6757](https://doi.org/10.1002/ece3.6757)
+Thomas R.Q, R.J. Figueiredo, V. Daneshmand, B.J. Bookout, L.K. Puckett, and C.C. Carey. 2020. A near‐term iterative forecasting system successfully predicts reservoir hydrodynamics and partitions uncertainty in real time. Water Resources Research 56: e2019WR026138. <https://doi.org/10.1029/2019WR026138>
 
-Cottingham, Kathryn L. and Weathers, Kathleen C. and Ewing, Holly A. and Greer, Meredith L. and Carey, Cayelan C. and Moisander, ed.,
-"Predicting the effects of climate change on freshwater cyanobacterial blooms requires consideration of the complete cyanobacterial life cycle.",
-Journal of Plankton Research, 43(1), 2020.  
-[doi:https://doi.org/10.1093/plankt/fbaa059](https://doi.org/10.1093/plankt/fbaa059)
+Wander, H.L., R.Q Thomas, T.N. Moore, M.E. Lofton, A. Breef-Pilz, C.C. Carey. 2024. Data assimilation experiments inform monitoring needs for near-term ecological forecasts in a eutrophic reservoir. Ecosphere 15: e4752. <https://doi.org/10.1002/ecs2.4752>
 
+Woelmer, W., R.Q. Thomas, M. Lofton, R. McClure P, and C.C Carey. 2022. Near-term phytoplankton forecasts reveal the effects of model time step and forecast horizon on predictability. Ecological Applications 32: e2642 <https://doi.org/10.1002/eap.2642>
 
+Woelmer, W.M., R.Q. Thomas, F. Olsson, B.G. Steele, K.C. Weathers, and C.C. Carey. 2024. Process-Based Forecasts of Lake Water Temperature and Dissolved Oxygen Outperform Null Models, with Variability Over Time and Depth. Ecological Informatics 83: 102825. <https://doi.org/10.1016/j.ecoinf.2024.102825>
+
+Wynne, J. H., W. M. Woelmer, T. N. Moore, R.Q. Thomas, K C. Weathers, C. C. Carey. 2023. Uncertainty in projections of future lake thermal dynamics is differentially driven by global climate models and lake models. PeerJ 11:e15445 <https://doi.org/10.7717/peerj.15445>
 
 
 ## Data packages
@@ -112,6 +82,8 @@ Schreiber, M.E., K.M. Krueger, Z.W. Munger, N.W. Hammond, M.E. Lofton, R.P. McCl
 Environmental Data Initiative. [https://doi.org/10.6073/pasta/16aef1a227f489ba26274f36fde6b824](https://doi.org/10.6073/pasta/16aef1a227f489ba26274f36fde6b824)
 
 ## Educational modules
+
+Lofton, M.E., T.N. Moore, W.M. Woelmer, R.Q. Thomas, and C.C. Carey. 2024. A modular curriculum to teach undergraduates ecological forecasting improves student and instructor confidence in their data science skills. Bioscience: Awaiting issue. <https://doi.org/10.1093/biosci/biae089>
 
 **<i class="fab fa-github"></i> [Macrosystems EDDIE](https://serc.carleton.edu/eddie/macrosystems/index.html)**
 
